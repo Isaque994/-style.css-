@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dia do Trabalhador - 1º de Maio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+            color: #333;
+        }
+        
+        header {
+            background-color: #e74c3c;
+            color: white;
+            text-align: center;
+            padding: 20px 0;
+        }
+        
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: white;
+            border-radius: 5px;
+            box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+        }
+        
+        h1 {
+            color: #fff;
+        }
+        
+        h2 {
+            color: #e74c3c;
+            border-bottom: 2px solid #e74c3c;
+            padding-bottom: 5px;
+        }
+        
+        .worker-image {
+            text-align: center;
+            margin: 20px 0;
+        }
+        
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #333;
+            color: white;
+        }
+        
+        .quote {
+            font-style: italic;
+            background-color: #f9f9f9;
+            padding: 15px;
+            border-left: 4px solid #e74c3c;
+            margin: 20px 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Dia Internacional do Trabalhador</h1>
+        <p>1º de Maio - Homenagem a todos os trabalhadores</p>
+    </header>
+    
+    <div class="container">
+        <div class="worker-image">
+            <!-- Você pode substituir por uma imagem real -->
+            <img src="https://via.placeholder.com/600x300?text=Trabalhadores" alt="Trabalhadores">
+        </div>
+        
+        <h2>Origem do Dia do Trabalhador</h2>
+        <p>O Dia do Trabalhador, celebrado em 1º de maio, tem suas origens nas lutas dos trabalhadores por melhores condições de trabalho durante a Revolução Industrial. A data foi escolhida em homenagem à greve geral que ocorreu em 1º de maio de 1886, em Chicago, Estados Unidos.</p>
+        
+        <div class="quote">
+            "O trabalho não é apenas um meio de vida, mas uma forma de realização pessoal e contribuição para a sociedade."
+        </div>
+        
+        <h2>Conquistas dos Trabalhadores</h2>
+        <ul>
+            <li>Jornada de trabalho de 8 horas</li>
+            <li>Direitos trabalhistas garantidos por lei</li>
+            <li>Segurança no ambiente de trabalho</li>
+            <li>Férias remuneradas</li>
+            <li>Licença maternidade/paternidade</li>
+        </ul>
+        
+        <h2>Homenagem</h2>
+        <p>Este site é uma homenagem a todos os trabalhadores que, com seu esforço diário, constroem nossa sociedade. Seja na indústria, no comércio, na agricultura, nos serviços ou em qualquer outra área, seu trabalho é essencial.</p>
+    </div>
+    
+    <footer>
+        <p>&copy; 2023 - Homenagem ao Dia do Trabalhador</p>
+        <p>Desenvolvido com ❤️ no Sololearn</p>
+    </footer>
+</body>
+</html>
